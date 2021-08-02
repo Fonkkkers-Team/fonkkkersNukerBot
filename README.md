@@ -1,0 +1,2 @@
+# fonkkkersNukerBot
+Discord Nuker bot
